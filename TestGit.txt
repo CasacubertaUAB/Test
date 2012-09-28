@@ -1,4 +1,8 @@
 Test Git
 
-Un texto sencillo, que vamos a dar de alta en GitHub
+Un texto sencillo, que vamos a dar de alta en GitHub.
+
+1, 3, 5 repeat, repeat
+
+
 
